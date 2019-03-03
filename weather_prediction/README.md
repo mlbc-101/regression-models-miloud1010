@@ -3,10 +3,10 @@
 Weather forecasting is the application of science and technology to predict the conditions of the atmosphere for a given location and time. People have attempted to predict the weather informally for millennia and formally since the 19th century. Weather forecasts are made by collecting quantitative data about the current state of the atmosphere at a given place and using meteorology to project how the atmosphere will change. In this exercise, you will use machine learning to predict the weather. You are given a dataset of weather history, and you're asked to give a model that predicts the weather, in this dataset you're also given no description about the dataset, this will make know how to deal with a dataset that you don't know anything about it.
 
 **Dataset name** 
+
 > weather.csv
 
 **Features**
-Formatted Date
 
 1.  `Formatted Date`.
 2. `Summary`.
@@ -22,6 +22,7 @@ Formatted Date
 12. `Daily Summary`.
 
 **Target Variable**
+
 4. `Temperature`.
 
 # Objective

@@ -4,15 +4,18 @@ The Boston housing market is highly competitive, and you want to be the best rea
 
 This is a modified Boston housing dataset consists of 489 data points, with each data point having 3 features. This dataset is a modified version of the Boston Housing dataset found on the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Housing).
 
-**Dataset name** 
+**Dataset name**
+
 > housing.csv
 
 **Features**
+
 1.  `RM`: average number of rooms per dwelling
 2. `LSTAT`: percentage of the population considered the lower status
 3. `PTRATIO`: pupil-teacher ratio by the town
 
 **Target Variable**
+
 4. `MEDV`: Median value of owner-occupied homes in $1000's (Price)
 
 # Objective

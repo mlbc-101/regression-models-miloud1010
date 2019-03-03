@@ -4,9 +4,11 @@ This dataset contains house sale prices for King County, which includes Seattle.
 
 
 **Dataset name** 
+
 > kc_housing.csv
 
 **Features**
+
 1. `ida`: notation for a house.
 2. `date`: Date house was sold.
 3. `price`: Price is the prediction target.
